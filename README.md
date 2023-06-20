@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/clevison-defensor-476810235/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clevison-defensor-476810235/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jose.clevison.73?mibextid=zbwkwl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jose.clevison.73?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/clevson_gregorio?igshid=mznlngnkzwq4mg==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/clevson_gregorio?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
-  <a href="https://my-portfolio-pf.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="https://instagram.com/clevson_gregorio?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+  <a href="https://my-portfolio-pf.netlify.app/" target="_blank"><img align="center" src="favicon/favicon-32x32.png" alt="favicon/favicon-32x32.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
