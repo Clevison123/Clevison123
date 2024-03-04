@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScrit**
 
-- 📫 How to reach me **cdefensor467@gmail.com**
+- 📫 How to reach me **jclevison135@gmail.com**
   
 -    My-Porfolio **https://my-portfolio-pf.netlify.app/**
 
