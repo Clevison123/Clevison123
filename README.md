@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jclevison135@gmail.com**
   
--    My-Porfolio **http://127.0.0.1:5500/Meu-Portfolio/index.html**
+<!---    My-Porfolio **** -->
 
 <h3 align="left">Connect to me:</h3>
 <p align="left">
