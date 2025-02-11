@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jclevison135@gmail.com**
   
--    My-Porfolio **https://my-portfolio-pf.netlify.app/**
+-    My-Porfolio **http://127.0.0.1:5500/Meu-Portfolio/index.html#projetos-pessoais**
 
 <h3 align="left">Connect to me:</h3>
 <p align="left">
