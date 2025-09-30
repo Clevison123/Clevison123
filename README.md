@@ -15,67 +15,62 @@
   <a href="https://www.instagram.com/clevison_gregorio/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://seuportfolio.com" target="_blank">
+ <!-- <a href="https://seuportfolio.com" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/web.svg" alt="Portfolio" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
+<!-- Separation line -->
+<hr style="border:1px solid #ccc; margin:20px 0;" />
+
 <p align="left">
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">CSS3</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">Git</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://www.w3.org/html/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">HTML5</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">JavaScript</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://reactjs.org/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">React</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">C#</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">SQL Server</figcaption>
   </figure>
 
-  <figure style="display:inline-block; text-align:center; margin:0 10px;">
+  <figure style="display:inline-block; text-align:center; margin:0 15px;">
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
     </a>
-    <figcaption style="font-size:12px;">Docker</figcaption>
   </figure>
 </p>
 
