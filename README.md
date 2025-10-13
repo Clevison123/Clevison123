@@ -13,8 +13,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://josegregorio.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/internetexplorer.svg" alt="Portfolio" height="30" width="40" />
-  </a> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/web.svg" alt="Portfolio" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
