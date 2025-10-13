@@ -9,15 +9,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-greg%C3%B3rio-476810235/" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-greg%C3%B3rio-476810235/" target="_blank" title="LinkedIn Profile">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+  <a href="https://josegregorio.netlify.app/" target="_blank" title="Visit my Portfolio Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Portfolio Website" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  🌐 <strong>My Portfolio:</strong>  
   <a href="https://josegregorio.netlify.app/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Portfolio" height="30" width="40" />
-</a>
-
-
-
+    https://josegregorio.netlify.app/
+  </a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
